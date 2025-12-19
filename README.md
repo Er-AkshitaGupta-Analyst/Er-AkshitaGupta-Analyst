@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Akshita 👋  
 
-<!--
-**Er-AkshitaGupta-dev/Er-AkshitaGupta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Business / Data Analyst** based in Pune, transitioning from software development into analytics.  
+I work with **SQL, Excel, Power BI, and Python** to analyze data and derive business insights.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- SQL (Joins, Aggregations, Subqueries)
+- Excel (Pivot Tables, VLOOKUP/XLOOKUP, Data Cleaning)
+- Power BI (Dashboards, KPIs, Data Modeling)
+- Python (Pandas, NumPy – basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Projects
+- Business Performance Analysis (SQL & Excel)
+- Product Metrics Dashboard (Power BI)
+
+### 🎯 Currently Working On
+- Strengthening SQL & Excel for analytics interviews
+- Building end-to-end analytics projects
+
+### 📫 Connect with me
+- LinkedIn: (https://www.linkedin.com/in/akshita-gupta-analyst/)
