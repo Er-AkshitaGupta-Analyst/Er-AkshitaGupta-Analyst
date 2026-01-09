@@ -4,10 +4,20 @@ Aspiring **Business / Data Analyst** based in Pune, transitioning from software 
 I work with **SQL, Excel, Power BI, and Python** to analyze data and derive business insights.
 
 ### 🔧 Skills
-- SQL (Joins, Aggregations, Subqueries)
-- Excel (Pivot Tables, VLOOKUP/XLOOKUP, Data Cleaning)
-- Power BI (Dashboards, KPIs, Data Modeling)
-- Python (Pandas, NumPy – basics)
+- SQL (Joins, Subqueries, CTEs, Aggregations)
+- Microsoft Excel (Pivot Tables, Power Query, XLOOKUP, Charts)
+- Power BI (Data Modeling, DAX, Dashboards, Power BI Service)
+- Statistics (Descriptive Statistics
+- Hypothesis Testing)
+- Python (Pandas, NumPy – Basics)
+- KPI Reporting
+- Dashboard Development
+- Data Analysis
+- Business Analysis
+- Data Visualization
+- Stakeholder Reporting
+- Trend Analysis
+- Exploratory Data Analysis (EDA)
 
 ### 📊 Projects
 - Business Performance Analysis (SQL & Excel)
