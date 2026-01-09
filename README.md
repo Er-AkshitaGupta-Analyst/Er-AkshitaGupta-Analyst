@@ -1,7 +1,10 @@
 ## Hi, I'm Akshita 👋  
 
-Aspiring **Business / Data Analyst** based in Pune, transitioning from software development into analytics.  
-I work with **SQL, Excel, Power BI, and Python** to analyze data and derive business insights.
+Results-driven Data Analyst/Business Analyst with 2+ years of experience in data validation, reporting, and analytics
+within QA and software development environments. Strong expertise in SQL, Excel, Power BI, and statistics,
+with hands-on experience in dashboard development, KPI tracking, trend analysis, and stakeholder reporting.
+Proven ability to convert complex datasets into actionable business insights that support decision-making. Actively
+seeking Data Analyst or Business Analyst roles.
 
 ### 🔧 Skills
 - SQL (Joins, Subqueries, CTEs, Aggregations)
