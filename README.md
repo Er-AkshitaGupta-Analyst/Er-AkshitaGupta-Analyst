@@ -12,6 +12,10 @@ I work with **SQL, Excel, Power BI, and Python** to analyze data and derive busi
 ### 📊 Projects
 - Business Performance Analysis (SQL & Excel)
 - Product Metrics Dashboard (Power BI)
+- Sales Performance Dashboard (Power BI): Built interactive dashboards to track revenue and KPIs
+- Customer Churn Analysis (SQL, Excel): Analyzed customer data to identify churn drivers
+- Operations Metrics Report (Excel, Power BI): Designed KPI reports for efficiency tracking
+  
 
 ### 🎯 Currently Working On
 - Strengthening SQL & Excel for analytics interviews
